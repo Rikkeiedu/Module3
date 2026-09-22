@@ -61,10 +61,10 @@ Dự án này mô phỏng một hệ thống HRM doanh nghiệp với các tính
 
 Bạn có thể dùng các tài khoản sau để đăng nhập nhanh:
 
-| Vai trò | Email | Mật khẩu | Quyền truy cập |
-| --- | --- | --- | --- |
-| Quản trị viên | admin@hrm.vn | Admin@123 | Toàn quyền hệ thống |
-| Nhân viên | nhanvien@hrm.vn | Employee@123 | Chỉ xem hồ sơ cá nhân |
+| Vai trò         | Email           | Mật khẩu   | Quyền truy cập           |
+| ---------------- | --------------- | ------------ | -------------------------- |
+| Quản trị viên | admin@hrm.vn    | Admin@123    | Toàn quyền hệ thống    |
+| Nhân viên      | nhanvien@hrm.vn | Employee@123 | Chỉ xem hồ sơ cá nhân |
 
 ## Cấu trúc thư mục
 
@@ -170,11 +170,3 @@ Dự án này có thể được mở rộng bằng các tính năng sau:
 ## Tác giả
 
 Dự án được phát triển trong khuôn khổ bài tập/module về hệ thống quản lý nhân sự HRM.
-
----
-
-Nếu bạn muốn, mình có thể tiếp tục viết thêm:
-
-- phiên bản README bằng tiếng Anh
-- README theo format chuyên nghiệp cho dự án nộp bài
-- README có thêm hình ảnh, badges và section “Demo workflow”
