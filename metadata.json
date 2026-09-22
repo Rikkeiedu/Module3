@@ -1,0 +1,6 @@
+{
+  "name": "Hệ thống Quản lý Nhân sự HRM",
+  "description": "Ứng dụng HRM Web App quản lý nhân sự hoàn chỉnh phục vụ Defense Case Study 3: Xác thực phân quyền, Global State, CRUD nhân viên với Form Validation nghiêm ngặt, Toast thông báo, Xử lý bất đồng bộ và Bộ Test tự động.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
